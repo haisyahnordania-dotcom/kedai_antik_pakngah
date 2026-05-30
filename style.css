@@ -66,3 +66,13 @@
     font-family: "Lucida Calligraphy", "Apple Chancery", cursive;
     color: #291701;
 }
+
+.button {
+    background-color: #68401c; 
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: "Segoe Script", "Comic Sans MS", cursive;
+}

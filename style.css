@@ -1,78 +1,70 @@
-
 .body {
-    background-color: #ccbea9; 
-    font-family: 'Arial', sans-serif; 
-    color: #333333; 
-    margin: 0;
-    padding: 20px;
+  background-color: #ccbea9;
+  font-family: "Arial", sans-serif;
+  color: #333333;
+  margin: 0;
+  padding: 20px;
 }
-
 
 .h1 {
-    font-family: "Vladimir Script", cursive;
-    font-size: 55px; 
-    color: #4d301b; 
-    text-align: center;
-    margin-bottom: 5px;
+  font-family: "Vladimir Script", cursive;
+  font-size: 55px;
+  color: #4d301b;
+  text-align: center;
+  margin-bottom: 5px;
 }
-
 
 .h2 {
-    font-family: "Segoe Script", "Comic Sans MS", cursive;
-    color: #4f2b0a;
-    border-bottom: 2px solid #4f2b0a; 
-    padding-bottom: 5px;
-    margin-top: 30px;
+  font-family: "Segoe Script", "Comic Sans MS", cursive;
+  color: #4f2b0a;
+  border-bottom: 2px solid #4f2b0a;
+  padding-bottom: 5px;
+  margin-top: 30px;
 }
-
 
 .nav {
-    text-align: center;
-    font-weight: bold;
-    margin-bottom: 15px;
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 15px;
 }
-
 
 .nav a {
-    color: #815934;
-    text-decoration: none; 
-    padding: 0 10px;
+  color: #815934;
+  text-decoration: none;
+  padding: 0 10px;
 }
-
 
 .nav a:hover {
-    color: #5c3a21;
-    text-decoration: underline; 
+  color: #5c3a21;
+  text-decoration: underline;
 }
-
 
 .hr {
-    border: 0;
-    height: 1px;
-    background-color: #140a00; 
-    margin: 20px 0;
+  border: 0;
+  height: 1px;
+  background-color: #140a00;
+  margin: 20px 0;
 }
 
-
 .footer {
-    text-align: center;
-    font-size: 14px;
-    color: #5b3c16;
-    margin-top: 40px;
+  text-align: center;
+  font-size: 14px;
+  color: #5b3c16;
+  margin-top: 40px;
 }
 
 .p {
-    line-height: 1.6; 
-    font-family: "Lucida Calligraphy", "Apple Chancery", cursive;
-    color: #291701;
+  line-height: 1.6;
+  font-family: "Lucida Calligraphy", "Apple Chancery", cursive;
+  color: #291701;
 }
 
 .button {
-    background-color: #68401c; 
-    color: white;
-    padding: 10px 20px;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    font-family: "Segoe Script", "Comic Sans MS", cursive;
+  background-color: #68401c;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-family: "Segoe Script", "Comic Sans MS", cursive;
 }
